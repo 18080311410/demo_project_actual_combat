@@ -1,0 +1,8 @@
+base.py                     16 INFO     定位元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+base.py                     16 INFO     定位元素：('xpath', "//*[contains(@text,'python')]")
+base.py                     16 INFO     定位元素：('xpath', "//*[contains(@text,'python')]")
+base.py                     16 INFO     定位元素：('xpath', "//*[contains(@text,'python')]")
+base.py                     16 INFO     定位元素：('xpath', "//*[contains(@text,'python')]")
+base.py                     16 INFO     定位元素：('xpath', "//*[@bounds='[0,520][1440,2288]']")
+base.py                     16 INFO     定位元素：('xpath', "//*[contains(@text,'Python')]")
+base.py                     16 INFO     定位元素：('xpath', "//*[contains(@text,'Python')]")

@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test06_app_channel",
+    "children" : [ {
+      "name" : "TestAppChannel.test_channel",
+      "uid" : "2964ea6d47634933",
+      "parentUid" : "1d05d3c4ed9917bbf45070e0b39e681f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575287343868,
+        "stop" : 1575287406954,
+        "duration" : 63086
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1d05d3c4ed9917bbf45070e0b39e681f"
+  } ]
+}

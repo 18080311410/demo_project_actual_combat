@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "TestAppChannel.test_channel",
+    "uid" : "2964ea6d47634933",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1575287343868,
+      "stop" : 1575287406954,
+      "duration" : 63086
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

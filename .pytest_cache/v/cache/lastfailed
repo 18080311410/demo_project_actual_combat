@@ -1,0 +1,7 @@
+{
+  "Script/test01_mp_login.py::TestMpLogin": true,
+  "Script/test01_mp_login.py::TestMpLogin::()::test_login[13012345679-246810-test123]": true,
+  "Script/test03_mis_login.py::TestMisLogin::()::test_login[testid-testpwd123-\\u6b22\\u8fce]": true,
+  "Script/test03_mis_login.py::TestMisLogin::()::test_login[testid-testpwd123-\\u7ba1\\u7406 \\u5458]": true,
+  "Script/test06_app_channel.py::TestAppChannel::()::test_channel": true
+}

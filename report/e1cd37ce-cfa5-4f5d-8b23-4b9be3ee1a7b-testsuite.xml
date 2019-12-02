@@ -1,0 +1,70 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1575287695897" stop="1575287764124">
+  <description>
+频道选择测试方法
+</description>
+  <name>test06_app_channel</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1575287695897" status="failed" stop="1575287764124">
+      <name>TestAppChannel.test_channel</name>
+      <failure>
+        <message>NoSuchElementException: Message: None
+</message>
+        <stack-trace>self = &lt;test06_app_channel.TestAppChannel object at 0x00000237FDB045C0&gt;, channel_text = 'python', article_text = 'Python'
+
+    def test_channel(self, channel_text="python", article_text="Python"):
+        try:
+&gt;           self.channel.page_combination_method(channel_text, article_text)
+
+Script\test06_app_channel.py:29: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+page\page_app_channel.py:24: in page_combination_method
+    self.page_search_channel(channel_text)
+page\page_app_channel.py:15: in page_search_channel
+    self.base_swipe_screen_right_left(page.app_channel,channel_text)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;page.page_app_channel.PageAppChannel object at 0x00000237FCD22D68&gt;
+loc = ('xpath', "//*[@class='android.widget.HorizontalScrollView']"), channel_text = 'python'
+
+    def base_swipe_screen_right_left(self, loc, channel_text):
+        """屏幕区域从右到左滑动"""
+        scope_ele = self.base_find(loc,timeout=5)
+        # x = scope_ele.location.get("x")
+        # y = scope_ele.location.get("y")
+        width = scope_ele.size.get("width")
+        height = scope_ele.size.get("height")
+        start_x = width * 0.8
+        start_y = height * 0.5
+        end_x = width * 0.2
+        end_y = height * 0.5
+        page_source = self.driver.page_source
+        ele = By.XPATH, "//*[contains(@text,'{}')]".format(channel_text)
+        while True:
+            try:
+                self.base_find(ele,timeout=2).click()
+                break
+            except:
+                self.driver.swipe(start_x, start_y, end_x, end_y, 3000)
+            if page_source == self.driver.page_source:
+&gt;               raise NoSuchElementException
+E               selenium.common.exceptions.NoSuchElementException: Message: None
+
+base\base_app.py:37: NoSuchElementException</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="f1a579c8-5f0a-4d3c-b82f-7babb99ec32b-attachment.png" title="报告截图：" type="image/png"/>
+        <attachment source="5b4b39c2-e8b4-4a58-922a-4f95b84f6b13-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="3282d07b-2d61-4cc5-b5af-90e4943ede25-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12584-MainThread"/>
+        <label name="host" value="DESKTOP-MSJDTH9"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,124 @@
+2019-12-02 11:10:17,545 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:10:17,547 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 11:15:21,774 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:15:21,774 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[index='1' and @class='android.widget.EditText']")
+2019-12-02 11:18:56,289 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:18:56,290 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class,'android.widget.EditText']")
+2019-12-02 11:22:39,663 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:22:39,665 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@index='1')]")
+2019-12-02 11:23:08,695 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:23:08,695 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@index,'1')]")
+2019-12-02 11:30:36,534 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:30:36,534 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 11:41:23,611 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:41:23,612 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 11:41:35,905 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 11:41:35,906 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 11:41:43,045 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 11:41:43,045 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 11:41:53,566 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'我的') and @index='3']")
+2019-12-02 11:41:58,598 ERROR [root] [test05_app_login.py (test_login:28] - assert False
+ +  where False = <bound method PageAppLogin.page_login_is_success of <page.page_app_login.PageAppLogin object at 0x0000025484A2B9B0>>()
+ +    where <bound method PageAppLogin.page_login_is_success of <page.page_app_login.PageAppLogin object at 0x0000025484A2B9B0>> = <page.page_app_login.PageAppLogin object at 0x0000025484A2B9B0>.page_login_is_success
+ +      where <page.page_app_login.PageAppLogin object at 0x0000025484A2B9B0> = <test05_app_login.TestAppLogin object at 0x00000254829D5A90>.login
+2019-12-02 11:42:21,779 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:42:21,779 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 11:42:33,877 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 11:42:33,877 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 11:42:40,655 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 11:42:40,655 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 11:42:40,818 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'我的') and @index='3']")
+2019-12-02 11:45:59,387 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 11:45:59,387 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 11:46:11,334 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 11:46:11,335 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 11:46:18,401 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 11:46:18,401 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 11:46:18,588 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'我的') and @index='3']")
+2019-12-02 16:02:51,404 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 16:02:51,422 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 16:03:03,476 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 16:03:03,476 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 16:03:10,392 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 16:03:10,392 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 16:03:10,564 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@class='android.view.View')]")
+2019-12-02 16:06:17,340 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 16:06:17,342 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 16:06:29,853 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 16:06:29,853 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 16:06:37,040 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 16:06:37,040 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 16:06:37,214 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.view.View']")
+2019-12-02 17:47:08,367 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 17:47:08,383 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 17:47:21,650 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 17:47:21,650 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 17:47:29,064 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 17:47:29,064 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 17:47:30,103 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.view.View']")
+2019-12-02 17:47:31,065 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:34,454 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:37,460 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:40,916 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:44,130 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:47,308 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:50,714 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:54,857 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:47:58,204 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:48:01,761 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 17:48:03,286 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@bounds='[0,1312][1440,1792]']")
+2019-12-02 17:48:34,244 ERROR [root] [test06_app_channel.py (test_channel:31] - Message: 
+
+2019-12-02 19:41:44,019 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 19:41:44,042 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 19:41:59,106 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 19:41:59,107 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 19:42:06,706 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:42:06,707 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:42:06,891 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+2019-12-02 19:42:09,542 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:42:12,950 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:42:16,237 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:42:19,282 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:42:20,085 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@bounds='[0,520][1440,2288]']")
+2019-12-02 19:42:21,633 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'Python')]")
+2019-12-02 19:45:33,403 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 19:45:33,403 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 19:45:45,877 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 19:45:45,877 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 19:45:53,069 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:45:53,070 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:45:56,280 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+2019-12-02 19:45:57,997 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:46:01,493 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:46:04,904 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:46:08,924 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:46:12,485 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@bounds='[0,520][1440,2288]']")
+2019-12-02 19:46:13,095 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'Python')]")
+2019-12-02 19:46:16,676 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'Python')]")
+2019-12-02 19:49:13,450 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 19:49:13,451 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 19:49:25,057 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 19:49:25,057 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 19:49:31,976 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:49:31,976 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:49:35,970 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+2019-12-02 19:49:36,551 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:49:39,866 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:49:43,100 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:49:46,215 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:49:51,151 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@bounds='[0,520][1440,2288]']")
+2019-12-02 19:49:51,787 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'Python')]")
+2019-12-02 19:49:55,856 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'Python')]")
+2019-12-02 19:55:10,256 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-12-02 19:55:10,256 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+2019-12-02 19:55:23,521 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-12-02 19:55:23,521 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+2019-12-02 19:55:31,384 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:55:31,384 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.Button']")
+2019-12-02 19:55:35,349 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+2019-12-02 19:55:36,140 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:55:41,449 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:55:47,092 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(@text,'python')]")
+2019-12-02 19:55:51,945 ERROR [root] [test06_app_channel.py (test_channel:33] - Message: None
+

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "2964ea6d47634933",
+  "name" : "TestAppChannel.test_channel",
+  "time" : {
+    "start" : 1575287343868,
+    "stop" : 1575287406954,
+    "duration" : 63086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

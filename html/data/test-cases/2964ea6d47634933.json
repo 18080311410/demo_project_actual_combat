@@ -1,0 +1,88 @@
+{
+  "uid" : "2964ea6d47634933",
+  "name" : "TestAppChannel.test_channel",
+  "fullName" : "test06_app_channel.TestAppChannel.test_channel",
+  "historyId" : "e72a81d123de1662a9cd9639884e517e",
+  "time" : {
+    "start" : 1575287343868,
+    "stop" : 1575287406954,
+    "duration" : 63086
+  },
+  "description" : "\n频道选择测试方法\n",
+  "descriptionHtml" : "<p>频道选择测试方法</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ef4650b08294eaf2",
+      "name" : "报告截图：",
+      "source" : "ef4650b08294eaf2.png",
+      "type" : "image/png",
+      "size" : 271804
+    }, {
+      "uid" : "3d753fb56e66ad48",
+      "name" : "Captured log setup",
+      "source" : "3d753fb56e66ad48.txt",
+      "type" : "text/plain",
+      "size" : 605
+    }, {
+      "uid" : "e791f889c4ddd31b",
+      "name" : "Captured log call",
+      "source" : "e791f889c4ddd31b.txt",
+      "type" : "text/plain",
+      "size" : 807
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-MSJDTH9"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12608-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test06_app_channel"
+  }, {
+    "name" : "testClass",
+    "value" : "test06_app_channel"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAppChannel.test_channel"
+  }, {
+    "name" : "package",
+    "value" : "test06_app_channel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2964ea6d47634933.json",
+  "parameterValues" : [ ]
+}

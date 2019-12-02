@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-MSJDTH9",
+    "children" : [ {
+      "name" : "12608-MainThread",
+      "children" : [ {
+        "name" : "TestAppChannel.test_channel",
+        "uid" : "2964ea6d47634933",
+        "parentUid" : "f763c22df05b6377810bf2f933a8b94b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1575287343868,
+          "stop" : 1575287406954,
+          "duration" : 63086
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f763c22df05b6377810bf2f933a8b94b"
+    } ],
+    "uid" : "91de7a7928103ebf9300b17efaa25463"
+  } ]
+}

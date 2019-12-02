@@ -1,0 +1,530 @@
+2019-11-30 10:37:41,040 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-30 10:37:41,042 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-11-30 10:37:41,042 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-30 10:37:41,881 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-30 10:37:41,881 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-30 10:37:42,281 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 10:37:42,281 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 10:37:42,504 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', '.user-name')
+2019-11-30 10:37:42,504 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.user-name')
+2019-11-30 10:38:07,075 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345679 密码：246810
+2019-11-30 10:38:07,076 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345679
+2019-11-30 10:38:07,076 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-30 10:38:07,365 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-30 10:38:07,365 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-30 10:38:07,510 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 10:38:07,510 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 10:38:07,611 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', '.user-name')
+2019-11-30 10:38:07,611 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.user-name')
+2019-11-30 10:38:38,394 ERROR [root] [test01_mp_login.py (test_login:36] - 错误：Message: 
+
+2019-11-30 10:50:46,838 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 10:50:46,839 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 10:50:47,012 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 10:50:47,012 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 10:55:18,125 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 10:55:18,125 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 10:55:18,287 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 10:55:18,287 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 10:58:21,254 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 10:58:21,255 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 10:58:21,376 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 10:58:21,376 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 10:58:21,496 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '[#inp1]')
+2019-11-30 10:58:21,496 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '[#inp1]')
+2019-11-30 11:00:15,739 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 11:00:15,739 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 11:00:15,900 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 11:00:15,901 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 11:00:16,022 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 11:00:16,022 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 11:00:16,093 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', '.user_info>span')
+2019-11-30 11:00:16,093 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.user_info>span')
+2019-11-30 11:01:51,562 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 11:01:51,563 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 11:01:51,735 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 11:01:51,735 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 11:01:51,876 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 11:01:51,876 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 11:01:51,953 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', '.user_info>span')
+2019-11-30 11:01:51,953 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.user_info>span')
+2019-11-30 11:01:52,593 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 11:01:52,594 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 11:04:28,035 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 11:04:28,035 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 11:04:28,221 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 11:04:28,222 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 11:04:28,415 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 11:04:28,416 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 11:04:28,494 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', '.user_info>span')
+2019-11-30 11:04:28,495 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.user_info>span')
+2019-11-30 11:04:52,775 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 11:04:52,775 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 11:04:52,914 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 11:04:52,915 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 11:04:53,061 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 11:04:53,061 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 11:04:53,144 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', '.user_info>span')
+2019-11-30 11:04:53,144 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.user_info>span')
+2019-11-30 11:04:53,903 ERROR [root] [test03_mis_login.py (test_login:37] - assert '管理 员' in '欢迎 管理员'
+ +  where '欢迎 管理员' = <bound method PageMisLogin.page_mis_nickname of <page.page_mis_login.PageMisLogin object at 0x000002550CD8F5C0>>()
+ +    where <bound method PageMisLogin.page_mis_nickname of <page.page_mis_login.PageMisLogin object at 0x000002550CD8F5C0>> = <page.page_mis_login.PageMisLogin object at 0x000002550CD8F5C0>.page_mis_nickname
+ +      where <page.page_mis_login.PageMisLogin object at 0x000002550CD8F5C0> = <test03_mis_login.TestMisLogin object at 0x000002550CD00438>.mis
+2019-11-30 12:31:42,448 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 12:31:42,448 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 14:16:25,723 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 14:16:25,723 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 14:19:39,598 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 14:19:39,598 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 14:20:31,072 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 14:20:31,072 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 14:20:31,235 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 14:20:31,235 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 14:20:31,367 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 14:20:31,368 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 14:20:33,442 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 14:20:33,442 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 14:20:35,571 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 14:20:35,571 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 14:20:35,879 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 14:20:35,879 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 14:20:36,019 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 14:20:36,019 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 14:20:36,135 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 14:20:36,135 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 14:20:39,117 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 14:20:39,117 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 14:20:39,209 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 14:20:39,209 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 14:20:39,325 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 14:20:39,325 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 15:16:49,239 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 15:16:49,239 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 15:16:49,397 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 15:16:49,397 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 15:16:49,556 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 15:16:49,557 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 15:16:51,647 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:16:51,647 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:16:53,730 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:16:53,730 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:16:53,937 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:16:53,937 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:16:54,073 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:16:54,073 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:16:54,190 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:16:54,191 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:16:56,984 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:16:56,984 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:16:57,074 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:16:57,075 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:16:57,121 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:16:57,121 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:16:57,232 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 15:16:57,233 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 15:16:59,852 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:16:59,852 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:17:01,948 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:17:01,948 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:17:02,063 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:17:02,063 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:17:02,200 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:17:02,200 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:17:02,337 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:17:02,337 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:17:05,147 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:17:05,147 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:17:05,221 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:17:05,222 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:17:05,256 ERROR [root] [test04_mis_audit.py (test_audit:43] - 'in <string>' requires string as left operand, not NoneType
+2019-11-30 15:18:03,152 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 15:18:03,153 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 15:18:03,323 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 15:18:03,323 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 15:18:03,451 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 15:18:03,451 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 15:18:05,521 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:18:05,521 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:18:07,603 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:18:07,603 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:18:07,764 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:18:07,765 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:18:07,906 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:18:07,907 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:18:08,021 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:18:08,021 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:18:10,776 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:18:10,776 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:18:10,860 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:18:10,860 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:18:10,904 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:18:10,904 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:18:11,017 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 15:18:11,017 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 15:18:13,603 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:18:13,603 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:18:15,673 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:18:15,673 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:18:15,777 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:18:15,777 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:18:15,935 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:18:15,936 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:18:16,064 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:18:16,064 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:18:18,928 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:18:18,928 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:18:19,006 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:18:19,006 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:18:19,038 ERROR [root] [test04_mis_audit.py (test_audit:45] - 'in <string>' requires string as left operand, not NoneType
+2019-11-30 15:20:21,558 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 15:20:21,559 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 15:20:21,719 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 15:20:21,720 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 15:20:21,865 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 15:20:21,865 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 15:20:23,935 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:20:23,935 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:20:26,035 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:20:26,036 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:20:26,216 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:20:26,216 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:20:26,350 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:20:26,350 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:20:26,467 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:20:26,467 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:20:29,217 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:20:29,217 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:20:29,298 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:20:29,298 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:20:29,348 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:20:29,349 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:20:29,452 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 15:20:29,452 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 15:20:32,060 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:20:32,060 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:20:34,143 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:20:34,143 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:20:34,229 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:20:34,229 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:20:34,355 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:20:34,355 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:20:34,471 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:20:34,471 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:20:37,353 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:20:37,354 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:20:37,431 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:20:37,431 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:20:37,462 ERROR [root] [test04_mis_audit.py (test_audit:45] - 'in <string>' requires string as left operand, not NoneType
+2019-11-30 15:22:37,865 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 15:22:37,866 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 15:22:38,034 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 15:22:38,034 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 15:22:38,160 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 15:22:38,160 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 15:22:40,229 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:22:40,229 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:22:42,326 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:22:42,326 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:22:42,546 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:22:42,546 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:22:42,687 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:22:42,687 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:22:42,836 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:22:42,837 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:22:45,582 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:22:45,582 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:22:47,673 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:22:47,673 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:22:47,719 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:22:47,719 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:22:47,821 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 15:22:47,821 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 15:22:50,378 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:22:50,378 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:22:52,474 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:22:52,474 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:22:52,567 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:22:52,568 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:22:52,701 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:22:52,701 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:22:52,832 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:22:52,833 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:22:55,651 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:22:55,652 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:22:57,726 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:22:57,727 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:22:57,788 ERROR [root] [test04_mis_audit.py (test_audit:45] - 'in <string>' requires string as left operand, not NoneType
+2019-11-30 15:34:05,044 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 15:34:05,045 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 15:34:05,225 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 15:34:05,226 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 15:34:05,431 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 15:34:05,431 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 15:34:07,518 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:34:07,518 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 15:34:09,589 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:34:09,589 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 15:34:09,751 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 15:34:09,752 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 15:34:09,907 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 15:34:09,907 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 15:34:10,031 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:34:10,032 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 15:34:12,905 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 15:34:12,905 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 15:34:15,021 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 15:34:15,021 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 15:34:15,054 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:34:15,054 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 15:34:15,158 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 15:34:15,158 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 16:00:46,073 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 16:00:46,074 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 16:00:46,200 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 16:00:46,200 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 16:00:46,335 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 16:00:46,336 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 16:00:48,418 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 16:00:48,418 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 16:00:50,508 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 16:00:50,508 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 16:00:50,714 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 16:00:50,714 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 16:00:50,843 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 16:00:50,844 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 16:00:50,964 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 16:00:50,965 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 16:00:53,743 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 16:00:53,743 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 16:00:55,835 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 16:00:55,835 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 16:00:55,867 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 16:00:55,868 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 16:00:55,990 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 16:00:55,990 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 16:01:01,661 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 16:01:01,662 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 16:01:03,737 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 16:01:03,737 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 16:01:03,865 INFO [root] [base.py (base_input:23] - 对元素进行输入：test
+2019-11-30 16:01:03,865 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 16:01:03,990 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 16:01:03,990 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 16:01:04,133 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 16:01:04,133 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 16:01:06,999 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 16:01:06,999 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 16:01:17,087 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 16:01:17,087 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 16:01:17,110 ERROR [root] [test04_mis_audit.py (test_audit:45] - 'in <string>' requires string as left operand, not NoneType
+2019-11-30 19:53:09,992 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-30 19:53:10,012 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-11-30 19:53:10,013 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-30 19:53:11,029 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-30 19:53:11,029 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-30 19:53:11,174 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 19:53:11,175 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 19:53:13,380 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 19:53:13,380 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 19:53:15,465 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 19:53:15,465 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 19:53:15,563 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 19:53:15,564 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-30 19:53:16,706 INFO [root] [base.py (base_find:16] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-30 19:53:16,750 INFO [root] [base.py (base_input:23] - 对元素进行输入：上海今天天气真好
+2019-11-30 19:53:16,750 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#tinymce')
+2019-11-30 19:53:16,976 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 19:53:16,977 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 19:53:19,082 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 19:53:19,082 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 19:53:23,638 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 19:53:23,638 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 19:53:25,753 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 19:53:25,753 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 19:53:48,955 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 19:53:48,955 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 19:53:49,197 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 19:53:49,197 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 19:53:49,339 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 19:53:49,340 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 19:53:51,421 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 19:53:51,421 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 19:53:53,568 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 19:53:53,568 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 19:53:53,747 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 19:53:53,747 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 19:53:54,036 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 19:53:54,036 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 19:53:54,136 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 19:53:54,136 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 19:53:57,032 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 19:53:57,032 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 19:53:59,114 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 19:53:59,114 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 20:00:42,955 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-30 20:00:42,955 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-11-30 20:00:42,955 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-30 20:00:43,243 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-30 20:00:43,243 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-30 20:00:43,424 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 20:00:43,424 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 20:00:45,505 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 20:00:45,505 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 20:00:47,578 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 20:00:47,578 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 20:00:47,711 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:00:47,712 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-30 20:00:48,774 INFO [root] [base.py (base_find:16] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-30 20:00:48,816 INFO [root] [base.py (base_input:23] - 对元素进行输入：上海今天天气真好
+2019-11-30 20:00:48,817 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#tinymce')
+2019-11-30 20:00:49,044 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 20:00:49,044 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 20:00:51,128 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 20:00:51,128 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 20:00:55,638 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 20:00:55,638 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 20:00:57,709 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 20:00:57,709 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 20:01:21,068 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 20:01:21,068 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 20:01:21,249 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 20:01:21,249 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 20:01:21,393 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 20:01:21,394 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 20:01:23,465 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 20:01:23,465 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 20:01:25,541 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 20:01:25,541 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 20:01:25,699 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:01:25,700 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 20:01:25,983 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 20:01:25,984 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 20:01:26,090 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:01:26,090 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:01:28,960 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 20:01:28,960 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 20:01:31,049 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 20:01:31,049 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 20:01:31,084 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 20:01:31,084 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 20:01:31,184 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 20:01:31,184 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 20:01:34,289 ERROR [root] [test04_mis_audit.py (test_audit:38] - get_find_id_element_result() missing 1 required positional argument: 'text'
+2019-11-30 20:06:43,441 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-30 20:06:43,441 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-11-30 20:06:43,441 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-30 20:06:43,704 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-30 20:06:43,705 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-30 20:06:43,865 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 20:06:43,865 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 20:06:45,949 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 20:06:45,949 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 20:06:48,038 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 20:06:48,038 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 20:06:48,113 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:06:48,114 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-30 20:06:49,069 INFO [root] [base.py (base_find:16] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-30 20:06:49,113 INFO [root] [base.py (base_input:23] - 对元素进行输入：上海今天天气真好
+2019-11-30 20:06:49,114 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#tinymce')
+2019-11-30 20:06:49,337 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 20:06:49,337 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 20:06:51,425 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 20:06:51,425 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 20:06:55,936 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 20:06:55,936 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 20:06:58,022 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 20:06:58,022 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 20:07:21,143 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 20:07:21,144 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 20:07:21,268 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 20:07:21,268 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 20:07:21,387 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 20:07:21,387 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 20:07:23,467 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 20:07:23,467 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 20:07:25,592 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 20:07:25,593 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 20:07:25,837 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:07:25,837 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 20:07:26,116 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 20:07:26,116 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 20:07:26,214 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:07:26,214 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:07:29,055 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 20:07:29,055 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 20:07:31,136 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 20:07:31,136 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 20:07:31,168 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 20:07:31,169 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 20:07:31,269 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 20:07:31,269 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 20:07:34,772 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:07:34,773 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 20:07:35,083 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 20:07:35,083 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 20:07:35,188 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:07:35,189 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:07:38,031 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 20:07:38,031 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 20:07:46,102 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'1200746677590294528')]")
+2019-11-30 20:07:46,140 ERROR [root] [test04_mis_audit.py (test_audit:38] - assert None
+ +  where None = <bound method PageMisAudit.page_get_audit_result of <page.page_mis_audit.PageMisAudit object at 0x0000017CFCEABBE0>>('test_sh2019_11_30', '数据库')
+ +    where <bound method PageMisAudit.page_get_audit_result of <page.page_mis_audit.PageMisAudit object at 0x0000017CFCEABBE0>> = <page.page_mis_audit.PageMisAudit object at 0x0000017CFCEABBE0>.page_get_audit_result
+ +      where <page.page_mis_audit.PageMisAudit object at 0x0000017CFCEABBE0> = <test04_mis_audit.TestMisAudit object at 0x0000017CFCEAB390>.mis
+2019-11-30 20:09:39,409 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-30 20:09:39,409 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-11-30 20:09:39,409 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-30 20:09:39,653 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-30 20:09:39,653 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-30 20:09:39,806 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 20:09:39,807 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 20:09:41,893 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 20:09:41,893 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-30 20:09:43,999 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 20:09:43,999 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-30 20:09:44,076 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:09:44,076 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-30 20:09:45,116 INFO [root] [base.py (base_find:16] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-30 20:09:45,159 INFO [root] [base.py (base_input:23] - 对元素进行输入：上海今天天气真好
+2019-11-30 20:09:45,159 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#tinymce')
+2019-11-30 20:09:45,380 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 20:09:45,380 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-30 20:09:47,476 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 20:09:47,476 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择']")
+2019-11-30 20:09:51,971 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 20:09:51,971 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-30 20:09:54,080 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 20:09:54,080 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-30 20:10:17,144 INFO [root] [base.py (base_input:23] - 对元素进行输入：testid
+2019-11-30 20:10:17,145 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='用户名']")
+2019-11-30 20:10:17,308 INFO [root] [base.py (base_input:23] - 对元素进行输入：testpwd123
+2019-11-30 20:10:17,308 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='密码']")
+2019-11-30 20:10:17,428 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '#inp1')
+2019-11-30 20:10:17,429 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#inp1')
+2019-11-30 20:10:19,498 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='信息管理']")
+2019-11-30 20:10:19,498 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='信息管理']")
+2019-11-30 20:10:21,580 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容审核']")
+2019-11-30 20:10:21,580 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容审核']")
+2019-11-30 20:10:21,861 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:10:21,862 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 20:10:22,210 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 20:10:22,211 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 20:10:22,412 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:10:22,413 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:10:25,166 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 20:10:25,166 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 20:10:27,249 INFO [root] [base.py (base_get_text:38] - 获取文本内容：('css selector', 'td>div>span')
+2019-11-30 20:10:27,249 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', 'td>div>span')
+2019-11-30 20:10:27,281 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//button//*[text()='通过']")
+2019-11-30 20:10:27,282 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//button//*[text()='通过']")
+2019-11-30 20:10:27,377 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-30 20:10:27,377 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-30 20:10:30,867 INFO [root] [base.py (base_input:23] - 对元素进行输入：test_sh2019_11_30
+2019-11-30 20:10:30,868 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 文章名称']")
+2019-11-30 20:10:31,175 INFO [root] [base.py (base_input:23] - 对元素进行输入：数据库
+2019-11-30 20:10:31,175 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='请输入: 频道']")
+2019-11-30 20:10:31,378 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:10:31,378 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择状态']")
+2019-11-30 20:10:34,143 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.find')
+2019-11-30 20:10:34,143 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.find')
+2019-11-30 20:10:42,228 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'1200748188860940288')]")

@@ -1,0 +1,9 @@
+test001:
+  phone: "13012345678"
+  code: "246810"
+  nickname: "test123"
+test002:
+  phone: "13012345679"
+  code: "246810"
+  nickname: "test123"
+  

@@ -1,0 +1,6 @@
+base.py                     23 INFO     对元素进行输入：13012345678
+base.py                     16 INFO     定位元素：('xpath', "//*[@index='1' and @class='android.widget.EditText']")
+base.py                     23 INFO     对元素进行输入：246810
+base.py                     16 INFO     定位元素：('xpath', "//*[@index='2' and @class='android.widget.EditText']")
+base.py                     33 INFO     对元素进行点击：('xpath', "//*[@class='android.widget.Button']")
+base.py                     16 INFO     定位元素：('xpath', "//*[@class='android.widget.Button']")

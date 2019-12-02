@@ -1,0 +1,9 @@
+test_001:
+  username: "testid"
+  password: "testpwd123"
+  nickname: "管理员"
+test_002:
+  username: "testid"
+  password: "testpwd123"
+  nickname: "管理 员"
+

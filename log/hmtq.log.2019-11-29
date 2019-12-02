@@ -1,0 +1,177 @@
+2019-11-29 12:08:09,727 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 12:08:09,729 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 12:08:09,729 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:08:11,283 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:08:11,284 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:08:11,420 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 12:08:11,420 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 12:08:11,917 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('css selector', '.user-name')
+2019-11-29 12:08:11,917 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.user-name')
+2019-11-29 12:17:32,469 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 12:17:32,469 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 12:17:32,469 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:17:32,668 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:17:32,668 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:17:32,798 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 12:17:32,799 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 12:17:32,884 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('css selector', '.user-name')
+2019-11-29 12:17:32,884 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.user-name')
+2019-11-29 12:17:36,738 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345679 密码：246810
+2019-11-29 12:17:36,738 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345679
+2019-11-29 12:17:36,738 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:17:36,951 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:17:36,951 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:22:37,121 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 12:22:37,122 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 12:22:37,122 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:22:37,500 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:22:37,500 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:22:37,644 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 12:22:37,644 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 12:22:37,726 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('css selector', '.user-name')
+2019-11-29 12:22:37,726 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.user-name')
+2019-11-29 12:22:38,890 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345679 密码：246810
+2019-11-29 12:22:38,890 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345679
+2019-11-29 12:22:38,890 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:22:39,138 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:22:39,139 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:28:03,806 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 12:28:03,807 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 12:28:03,807 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:28:04,062 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:28:04,062 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:28:04,199 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 12:28:04,199 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 12:28:04,278 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('css selector', '.user-name')
+2019-11-29 12:28:04,278 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.user-name')
+2019-11-29 12:28:05,748 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345679 密码：246810
+2019-11-29 12:28:05,748 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345679
+2019-11-29 12:28:05,748 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:28:06,051 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:28:06,051 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:29:26,172 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 12:29:26,172 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 12:29:26,172 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:29:26,434 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:29:26,434 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:29:26,592 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 12:29:26,592 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 12:29:26,691 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('css selector', '.user-name')
+2019-11-29 12:29:26,691 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.user-name')
+2019-11-29 12:29:51,421 INFO [root] [page_mp_login.py (page_login:27] - 自媒体登录方法输入 账号：13012345679 密码：246810
+2019-11-29 12:29:51,421 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345679
+2019-11-29 12:29:51,421 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 12:29:51,692 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 12:29:51,693 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 12:29:51,833 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 12:29:51,834 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 12:29:51,914 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('css selector', '.user-name')
+2019-11-29 12:29:51,914 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.user-name')
+2019-11-29 12:30:22,579 ERROR [root] [test01_mp_login.py (test_login:35] - 错误：Message: 
+
+2019-11-29 16:30:19,749 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 16:30:19,791 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 16:30:19,791 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 16:30:20,772 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 16:30:20,773 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 16:30:20,910 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 16:30:20,910 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 16:30:23,076 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.is-opened > div:nth-child(1)')
+2019-11-29 16:30:23,076 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.is-opened > div:nth-child(1)')
+2019-11-29 16:40:19,025 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 16:40:19,026 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 16:40:19,026 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 16:40:19,242 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 16:40:19,242 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 16:40:19,385 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 16:40:19,385 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 16:40:21,479 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 16:40:21,479 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 16:40:23,609 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 16:40:23,609 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 16:40:23,700 INFO [root] [base.py (base_input:20] - 对元素进行输入：test-sh12
+2019-11-29 16:40:23,700 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-29 16:40:25,020 INFO [root] [base.py (base_find:13] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-29 16:40:25,064 INFO [root] [base.py (base_input:20] - 对元素进行输入：今日上海天气：阴
+2019-11-29 16:40:25,064 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '#tinymce')
+2019-11-29 16:40:25,297 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 16:40:25,298 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 16:40:27,387 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', "[placeholder='请选择']")
+2019-11-29 16:40:27,388 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='请选择']")
+2019-11-29 16:40:27,561 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//ul/li/*[text()='数据库']")
+2019-11-29 16:40:27,562 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//ul/li/*[text()='数据库']")
+2019-11-29 16:40:29,724 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 16:40:29,724 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 16:40:31,902 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-29 16:40:31,902 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-29 16:44:13,765 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 16:44:13,765 INFO [root] [base.py (base_input:20] - 对元素进行输入：13012345678
+2019-11-29 16:44:13,765 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 16:44:14,012 INFO [root] [base.py (base_input:20] - 对元素进行输入：246810
+2019-11-29 16:44:14,012 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 16:44:14,184 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 16:44:14,184 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 16:44:16,273 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 16:44:16,273 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 16:44:18,351 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 16:44:18,351 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 16:44:18,434 INFO [root] [base.py (base_input:20] - 对元素进行输入：test-sh12
+2019-11-29 16:44:18,435 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-29 16:44:19,407 INFO [root] [base.py (base_find:13] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-29 16:44:19,452 INFO [root] [base.py (base_input:20] - 对元素进行输入：今日上海天气：阴
+2019-11-29 16:44:19,452 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '#tinymce')
+2019-11-29 16:44:19,690 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 16:44:19,690 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 16:44:21,779 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', "[placeholder='请选择']")
+2019-11-29 16:44:21,779 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', "[placeholder='请选择']")
+2019-11-29 16:44:21,881 INFO [root] [base.py (base_click:30] - 对元素进行点击：('xpath', "//ul/li/*[text()='数据库']")
+2019-11-29 16:44:21,882 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//ul/li/*[text()='数据库']")
+2019-11-29 16:44:24,007 INFO [root] [base.py (base_click:30] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 16:44:24,007 INFO [root] [base.py (base_find:13] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 16:44:26,119 INFO [root] [base.py (base_get_text:35] - 获取文本内容：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-29 16:44:26,119 INFO [root] [base.py (base_find:13] - 定位元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2019-11-29 17:11:36,500 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 17:11:36,501 INFO [root] [base.py (base_input:21] - 对元素进行输入：13012345678
+2019-11-29 17:11:36,501 INFO [root] [base.py (base_find:14] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 17:11:36,766 INFO [root] [base.py (base_input:21] - 对元素进行输入：246810
+2019-11-29 17:11:36,766 INFO [root] [base.py (base_find:14] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 17:11:36,906 INFO [root] [base.py (base_click:31] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 17:11:36,907 INFO [root] [base.py (base_find:14] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 17:11:38,995 INFO [root] [base.py (base_click:31] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 17:11:38,995 INFO [root] [base.py (base_find:14] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 17:11:41,079 INFO [root] [base.py (base_click:31] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 17:11:41,079 INFO [root] [base.py (base_find:14] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 17:11:41,174 INFO [root] [base.py (base_input:21] - 对元素进行输入：test-sh12
+2019-11-29 17:11:41,174 INFO [root] [base.py (base_find:14] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-29 17:11:42,165 INFO [root] [base.py (base_find:14] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-29 17:11:42,206 INFO [root] [base.py (base_input:21] - 对元素进行输入：今日上海天气：阴
+2019-11-29 17:11:42,206 INFO [root] [base.py (base_find:14] - 定位元素：('css selector', '#tinymce')
+2019-11-29 17:11:42,446 INFO [root] [base.py (base_click:31] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 17:11:42,446 INFO [root] [base.py (base_find:14] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 17:11:44,533 INFO [root] [base.py (base_click:31] - 对元素进行点击：('xpath', "//*[@placeholder='请选择']")
+2019-11-29 17:11:44,534 INFO [root] [base.py (base_find:14] - 定位元素：('xpath', "//*[@placeholder='请选择']")
+2019-11-29 17:11:47,245 INFO [root] [base.py (base_click:31] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 17:11:47,245 INFO [root] [base.py (base_find:14] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 17:12:40,300 INFO [root] [page_mp_login.py (page_login_success:34] - 自媒体登录方法输入 账号：13012345678 密码：246810
+2019-11-29 17:12:40,300 INFO [root] [base.py (base_input:23] - 对元素进行输入：13012345678
+2019-11-29 17:12:40,300 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-input__inner')
+2019-11-29 17:12:40,587 INFO [root] [base.py (base_input:23] - 对元素进行输入：246810
+2019-11-29 17:12:40,588 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='验证码']")
+2019-11-29 17:12:40,722 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button--primary')
+2019-11-29 17:12:40,722 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button--primary')
+2019-11-29 17:12:42,804 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 17:12:42,804 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[text()='内容管理']/..")
+2019-11-29 17:12:44,902 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 17:12:44,902 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//ul[@class='el-menu el-menu--inline']//*[contains(text(),'发布文章')]")
+2019-11-29 17:12:44,993 INFO [root] [base.py (base_input:23] - 对元素进行输入：test-sh12
+2019-11-29 17:12:44,994 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', "[placeholder='文章名称']")
+2019-11-29 17:12:45,971 INFO [root] [base.py (base_find:16] - 定位元素：('id', 'publishTinymce_ifr')
+2019-11-29 17:12:46,013 INFO [root] [base.py (base_input:23] - 对元素进行输入：今日上海天气：阴
+2019-11-29 17:12:46,013 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '#tinymce')
+2019-11-29 17:12:46,247 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 17:12:46,247 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[contains(text(),'自动')]/..")
+2019-11-29 17:12:48,329 INFO [root] [base.py (base_click:33] - 对元素进行点击：('xpath', "//*[@placeholder='请选择']")
+2019-11-29 17:12:48,329 INFO [root] [base.py (base_find:16] - 定位元素：('xpath', "//*[@placeholder='请选择']")
+2019-11-29 17:12:52,822 INFO [root] [base.py (base_click:33] - 对元素进行点击：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 17:12:52,822 INFO [root] [base.py (base_find:16] - 定位元素：('css selector', '.el-button.filter-item.el-button--primary')
+2019-11-29 17:45:24,962 INFO [root] [get_log.py (<module>:33] - 111
